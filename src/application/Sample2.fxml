@@ -10,7 +10,7 @@
    <children>
       <ImageView fitHeight="399.0" fitWidth="640.0" pickOnBounds="true" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <image>
-            <Image url="@../imagenes/Koala.jpg" />
+            <Image url="@../imagenes/logo-vector-escuela-universitaria-real-madrid–universidad-europea.jpg" />
          </image>
          <effect>
             <InnerShadow />
