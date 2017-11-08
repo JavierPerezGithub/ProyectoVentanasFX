@@ -24,7 +24,7 @@ public class SampleController {
 	void cerrar(MouseEvent event) {
 		System.exit(0);
 	}
-
+//ESTO ES UNA PRUEBA 
 	@FXML
 	void emergente(MouseEvent event) {
 
