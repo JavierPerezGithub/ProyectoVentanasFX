@@ -27,7 +27,7 @@ public class SampleController {
 
 	@FXML
 	void emergente(MouseEvent event) {
-//Esto es una prueba
+//A ver ahora si pasa algo nuevo
 		try {
 			abreVentana();
 		} catch (IOException e) {
