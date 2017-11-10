@@ -13,7 +13,6 @@ import javafx.fxml.FXMLLoader;
 public class Main extends Application {
 	
 	Image image;
-	String va;
 	
 	@Override
 	public void start(Stage primaryStage) {
