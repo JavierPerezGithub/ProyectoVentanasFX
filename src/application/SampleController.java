@@ -27,7 +27,6 @@ public class SampleController {
 
 	@FXML
 	void emergente(MouseEvent event) {
-//Esto parece que funciona
 		try {
 			abreVentana();
 		} catch (IOException e) {
@@ -35,7 +34,6 @@ public class SampleController {
 			e.printStackTrace();
 		}
 	}
-
 	
 	private void abreVentana() throws IOException {
 		try {
