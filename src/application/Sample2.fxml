@@ -16,7 +16,7 @@
             <InnerShadow />
          </effect>
       </ImageView>
-      <Button fx:id="btnSalida" layoutX="521.0" layoutY="428.0" mnemonicParsing="false" onMouseClicked="#cerrarEmergente" prefHeight="33.0" prefWidth="89.0" text="Salida" />
+      <Button fx:id="btnSalida" layoutX="521.0" layoutY="428.0" mnemonicParsing="false" onMouseClicked="#cerrarEmergente" prefHeight="33.0" prefWidth="89.0" text="Exit" />
       <ImageView fitHeight="57.0" fitWidth="74.0" layoutX="23.0" layoutY="412.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../imagenes/ccheart.png" />
